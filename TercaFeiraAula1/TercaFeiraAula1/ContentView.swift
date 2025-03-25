@@ -23,13 +23,15 @@ struct ContentView: View {
         }
         
         showAlert = true
+        
+        userAge = ""
     }
     
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
+            Image("marshall")
+                .resizable()
+                .scaledToFit()
             Text("Calculadora de Idade Canina")
             
             TextField(
