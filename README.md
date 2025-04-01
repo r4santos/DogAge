@@ -17,8 +17,7 @@ Practicing a new programming language
 <h2 id=installation>📲 Installation</h2>
 
 1. Clone the repo.
-2. Install Visual Studio.
-3. Install Flutter
+2. Install Xcode
 
 <h2 id=technology>🛠️ Technology</h2>
 
